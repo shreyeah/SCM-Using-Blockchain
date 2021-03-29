@@ -1,0 +1,8 @@
+.header-container{
+    width: 100%;
+    height: 80px;
+    background-color: #78d0d3;
+    display: flex;
+    flex-direction: column;
+    justify-content: flex-end;
+}
